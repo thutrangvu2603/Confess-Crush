@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "HappyAnni <3",
+    introTitle: 'Anh người iu Pdl',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    mà sao em cứ đi nhầm đường
+    lạc vào tim anh lẻ loi
+    đằng sau chữ yêu đây là thương`,
+    btnIntro: 'Bấm vô đây để đi tiếp nè',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnYes: 'Yêu công túa Vtt lắm <33',
+    btnNo: 'Ghéc bỏ xừ, toàn làm mình buồn',
+    question: 'Một lần gặp gỡ, một lần nói chuyện và thế là yêu <3 Yêu khoong?',
+    btnReply: 'Nhấn vô đây để gửi đi nè <3',
+    reply: 'Có yêuuuuu',
+    mess: 'Em biết mà 🥰. Yêu Pdl nhiều nhiều 😘😘',
+    messDesc: 'Cảm ơn anh người yêu Pdl đã luôn yêu chiều em <3 Happi our anniversary 200820',
+    btnAccept: 'Yêu bé rấc nhìu <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/ttrangvu.2603/
 }
